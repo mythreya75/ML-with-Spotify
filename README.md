@@ -7,3 +7,8 @@ Packages
 * Pandas
 * Scikit-learn
 * Spotipy
+
+Algorithms to try:
+* k-means clustering
+* Random forests
+* Tensorflow Neural Network
